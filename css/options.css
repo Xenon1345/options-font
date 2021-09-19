@@ -1,6 +1,6 @@
 @font-face {
   font-family: "options";
   src: url("../font/Options.ttf") format("truetype");
-  font-smooth: never;
-  -webkit-font-smoothing : none;
+  /* font-smooth: never;
+  -webkit-font-smoothing : none; */
 }
