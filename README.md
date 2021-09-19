@@ -1,2 +1,3 @@
-# wavetapper-font
-Font for (almost) all wavetapper symbols.
+# options-font
+Font for the katakana in options.
+
